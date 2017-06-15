@@ -4,7 +4,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/jeanpaul/ClionProjects/HADB/connection/Protocol.cpp" "/home/jeanpaul/ClionProjects/HADB/cmake-build-debug/CMakeFiles/HADB.dir/connection/Protocol.cpp.o"
+  "/home/jeanpaul/ClionProjects/HADB/connection/Server.cpp" "/home/jeanpaul/ClionProjects/HADB/cmake-build-debug/CMakeFiles/HADB.dir/connection/Server.cpp.o"
+  "/home/jeanpaul/ClionProjects/HADB/data structures/BTree.cpp" "/home/jeanpaul/ClionProjects/HADB/cmake-build-debug/CMakeFiles/HADB.dir/data_structures/BTree.cpp.o"
+  "/home/jeanpaul/ClionProjects/HADB/data structures/BTreeNode.cpp" "/home/jeanpaul/ClionProjects/HADB/cmake-build-debug/CMakeFiles/HADB.dir/data_structures/BTreeNode.cpp.o"
+  "/home/jeanpaul/ClionProjects/HADB/json/jsonParser.cpp" "/home/jeanpaul/ClionProjects/HADB/cmake-build-debug/CMakeFiles/HADB.dir/json/jsonParser.cpp.o"
   "/home/jeanpaul/ClionProjects/HADB/main.cpp" "/home/jeanpaul/ClionProjects/HADB/cmake-build-debug/CMakeFiles/HADB.dir/main.cpp.o"
+  "/home/jeanpaul/ClionProjects/HADB/object/RequestForm.cpp" "/home/jeanpaul/ClionProjects/HADB/cmake-build-debug/CMakeFiles/HADB.dir/object/RequestForm.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

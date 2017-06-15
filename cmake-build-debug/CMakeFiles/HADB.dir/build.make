@@ -81,17 +81,173 @@ CMakeFiles/HADB.dir/main.cpp.o.provides: CMakeFiles/HADB.dir/main.cpp.o.requires
 CMakeFiles/HADB.dir/main.cpp.o.provides.build: CMakeFiles/HADB.dir/main.cpp.o
 
 
+CMakeFiles/HADB.dir/data_structures/BTree.cpp.o: CMakeFiles/HADB.dir/flags.make
+CMakeFiles/HADB.dir/data_structures/BTree.cpp.o: ../data\ structures/BTree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jeanpaul/ClionProjects/HADB/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/HADB.dir/data_structures/BTree.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/HADB.dir/data_structures/BTree.cpp.o -c "/home/jeanpaul/ClionProjects/HADB/data structures/BTree.cpp"
+
+CMakeFiles/HADB.dir/data_structures/BTree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HADB.dir/data_structures/BTree.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/jeanpaul/ClionProjects/HADB/data structures/BTree.cpp" > CMakeFiles/HADB.dir/data_structures/BTree.cpp.i
+
+CMakeFiles/HADB.dir/data_structures/BTree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HADB.dir/data_structures/BTree.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/jeanpaul/ClionProjects/HADB/data structures/BTree.cpp" -o CMakeFiles/HADB.dir/data_structures/BTree.cpp.s
+
+CMakeFiles/HADB.dir/data_structures/BTree.cpp.o.requires:
+
+.PHONY : CMakeFiles/HADB.dir/data_structures/BTree.cpp.o.requires
+
+CMakeFiles/HADB.dir/data_structures/BTree.cpp.o.provides: CMakeFiles/HADB.dir/data_structures/BTree.cpp.o.requires
+	$(MAKE) -f CMakeFiles/HADB.dir/build.make CMakeFiles/HADB.dir/data_structures/BTree.cpp.o.provides.build
+.PHONY : CMakeFiles/HADB.dir/data_structures/BTree.cpp.o.provides
+
+CMakeFiles/HADB.dir/data_structures/BTree.cpp.o.provides.build: CMakeFiles/HADB.dir/data_structures/BTree.cpp.o
+
+
+CMakeFiles/HADB.dir/data_structures/BTreeNode.cpp.o: CMakeFiles/HADB.dir/flags.make
+CMakeFiles/HADB.dir/data_structures/BTreeNode.cpp.o: ../data\ structures/BTreeNode.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jeanpaul/ClionProjects/HADB/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/HADB.dir/data_structures/BTreeNode.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/HADB.dir/data_structures/BTreeNode.cpp.o -c "/home/jeanpaul/ClionProjects/HADB/data structures/BTreeNode.cpp"
+
+CMakeFiles/HADB.dir/data_structures/BTreeNode.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HADB.dir/data_structures/BTreeNode.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/jeanpaul/ClionProjects/HADB/data structures/BTreeNode.cpp" > CMakeFiles/HADB.dir/data_structures/BTreeNode.cpp.i
+
+CMakeFiles/HADB.dir/data_structures/BTreeNode.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HADB.dir/data_structures/BTreeNode.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/jeanpaul/ClionProjects/HADB/data structures/BTreeNode.cpp" -o CMakeFiles/HADB.dir/data_structures/BTreeNode.cpp.s
+
+CMakeFiles/HADB.dir/data_structures/BTreeNode.cpp.o.requires:
+
+.PHONY : CMakeFiles/HADB.dir/data_structures/BTreeNode.cpp.o.requires
+
+CMakeFiles/HADB.dir/data_structures/BTreeNode.cpp.o.provides: CMakeFiles/HADB.dir/data_structures/BTreeNode.cpp.o.requires
+	$(MAKE) -f CMakeFiles/HADB.dir/build.make CMakeFiles/HADB.dir/data_structures/BTreeNode.cpp.o.provides.build
+.PHONY : CMakeFiles/HADB.dir/data_structures/BTreeNode.cpp.o.provides
+
+CMakeFiles/HADB.dir/data_structures/BTreeNode.cpp.o.provides.build: CMakeFiles/HADB.dir/data_structures/BTreeNode.cpp.o
+
+
+CMakeFiles/HADB.dir/connection/Server.cpp.o: CMakeFiles/HADB.dir/flags.make
+CMakeFiles/HADB.dir/connection/Server.cpp.o: ../connection/Server.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jeanpaul/ClionProjects/HADB/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/HADB.dir/connection/Server.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/HADB.dir/connection/Server.cpp.o -c /home/jeanpaul/ClionProjects/HADB/connection/Server.cpp
+
+CMakeFiles/HADB.dir/connection/Server.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HADB.dir/connection/Server.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jeanpaul/ClionProjects/HADB/connection/Server.cpp > CMakeFiles/HADB.dir/connection/Server.cpp.i
+
+CMakeFiles/HADB.dir/connection/Server.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HADB.dir/connection/Server.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jeanpaul/ClionProjects/HADB/connection/Server.cpp -o CMakeFiles/HADB.dir/connection/Server.cpp.s
+
+CMakeFiles/HADB.dir/connection/Server.cpp.o.requires:
+
+.PHONY : CMakeFiles/HADB.dir/connection/Server.cpp.o.requires
+
+CMakeFiles/HADB.dir/connection/Server.cpp.o.provides: CMakeFiles/HADB.dir/connection/Server.cpp.o.requires
+	$(MAKE) -f CMakeFiles/HADB.dir/build.make CMakeFiles/HADB.dir/connection/Server.cpp.o.provides.build
+.PHONY : CMakeFiles/HADB.dir/connection/Server.cpp.o.provides
+
+CMakeFiles/HADB.dir/connection/Server.cpp.o.provides.build: CMakeFiles/HADB.dir/connection/Server.cpp.o
+
+
+CMakeFiles/HADB.dir/json/jsonParser.cpp.o: CMakeFiles/HADB.dir/flags.make
+CMakeFiles/HADB.dir/json/jsonParser.cpp.o: ../json/jsonParser.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jeanpaul/ClionProjects/HADB/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/HADB.dir/json/jsonParser.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/HADB.dir/json/jsonParser.cpp.o -c /home/jeanpaul/ClionProjects/HADB/json/jsonParser.cpp
+
+CMakeFiles/HADB.dir/json/jsonParser.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HADB.dir/json/jsonParser.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jeanpaul/ClionProjects/HADB/json/jsonParser.cpp > CMakeFiles/HADB.dir/json/jsonParser.cpp.i
+
+CMakeFiles/HADB.dir/json/jsonParser.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HADB.dir/json/jsonParser.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jeanpaul/ClionProjects/HADB/json/jsonParser.cpp -o CMakeFiles/HADB.dir/json/jsonParser.cpp.s
+
+CMakeFiles/HADB.dir/json/jsonParser.cpp.o.requires:
+
+.PHONY : CMakeFiles/HADB.dir/json/jsonParser.cpp.o.requires
+
+CMakeFiles/HADB.dir/json/jsonParser.cpp.o.provides: CMakeFiles/HADB.dir/json/jsonParser.cpp.o.requires
+	$(MAKE) -f CMakeFiles/HADB.dir/build.make CMakeFiles/HADB.dir/json/jsonParser.cpp.o.provides.build
+.PHONY : CMakeFiles/HADB.dir/json/jsonParser.cpp.o.provides
+
+CMakeFiles/HADB.dir/json/jsonParser.cpp.o.provides.build: CMakeFiles/HADB.dir/json/jsonParser.cpp.o
+
+
+CMakeFiles/HADB.dir/object/RequestForm.cpp.o: CMakeFiles/HADB.dir/flags.make
+CMakeFiles/HADB.dir/object/RequestForm.cpp.o: ../object/RequestForm.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jeanpaul/ClionProjects/HADB/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/HADB.dir/object/RequestForm.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/HADB.dir/object/RequestForm.cpp.o -c /home/jeanpaul/ClionProjects/HADB/object/RequestForm.cpp
+
+CMakeFiles/HADB.dir/object/RequestForm.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HADB.dir/object/RequestForm.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jeanpaul/ClionProjects/HADB/object/RequestForm.cpp > CMakeFiles/HADB.dir/object/RequestForm.cpp.i
+
+CMakeFiles/HADB.dir/object/RequestForm.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HADB.dir/object/RequestForm.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jeanpaul/ClionProjects/HADB/object/RequestForm.cpp -o CMakeFiles/HADB.dir/object/RequestForm.cpp.s
+
+CMakeFiles/HADB.dir/object/RequestForm.cpp.o.requires:
+
+.PHONY : CMakeFiles/HADB.dir/object/RequestForm.cpp.o.requires
+
+CMakeFiles/HADB.dir/object/RequestForm.cpp.o.provides: CMakeFiles/HADB.dir/object/RequestForm.cpp.o.requires
+	$(MAKE) -f CMakeFiles/HADB.dir/build.make CMakeFiles/HADB.dir/object/RequestForm.cpp.o.provides.build
+.PHONY : CMakeFiles/HADB.dir/object/RequestForm.cpp.o.provides
+
+CMakeFiles/HADB.dir/object/RequestForm.cpp.o.provides.build: CMakeFiles/HADB.dir/object/RequestForm.cpp.o
+
+
+CMakeFiles/HADB.dir/connection/Protocol.cpp.o: CMakeFiles/HADB.dir/flags.make
+CMakeFiles/HADB.dir/connection/Protocol.cpp.o: ../connection/Protocol.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jeanpaul/ClionProjects/HADB/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/HADB.dir/connection/Protocol.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/HADB.dir/connection/Protocol.cpp.o -c /home/jeanpaul/ClionProjects/HADB/connection/Protocol.cpp
+
+CMakeFiles/HADB.dir/connection/Protocol.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HADB.dir/connection/Protocol.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jeanpaul/ClionProjects/HADB/connection/Protocol.cpp > CMakeFiles/HADB.dir/connection/Protocol.cpp.i
+
+CMakeFiles/HADB.dir/connection/Protocol.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HADB.dir/connection/Protocol.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jeanpaul/ClionProjects/HADB/connection/Protocol.cpp -o CMakeFiles/HADB.dir/connection/Protocol.cpp.s
+
+CMakeFiles/HADB.dir/connection/Protocol.cpp.o.requires:
+
+.PHONY : CMakeFiles/HADB.dir/connection/Protocol.cpp.o.requires
+
+CMakeFiles/HADB.dir/connection/Protocol.cpp.o.provides: CMakeFiles/HADB.dir/connection/Protocol.cpp.o.requires
+	$(MAKE) -f CMakeFiles/HADB.dir/build.make CMakeFiles/HADB.dir/connection/Protocol.cpp.o.provides.build
+.PHONY : CMakeFiles/HADB.dir/connection/Protocol.cpp.o.provides
+
+CMakeFiles/HADB.dir/connection/Protocol.cpp.o.provides.build: CMakeFiles/HADB.dir/connection/Protocol.cpp.o
+
+
 # Object files for target HADB
 HADB_OBJECTS = \
-"CMakeFiles/HADB.dir/main.cpp.o"
+"CMakeFiles/HADB.dir/main.cpp.o" \
+"CMakeFiles/HADB.dir/data_structures/BTree.cpp.o" \
+"CMakeFiles/HADB.dir/data_structures/BTreeNode.cpp.o" \
+"CMakeFiles/HADB.dir/connection/Server.cpp.o" \
+"CMakeFiles/HADB.dir/json/jsonParser.cpp.o" \
+"CMakeFiles/HADB.dir/object/RequestForm.cpp.o" \
+"CMakeFiles/HADB.dir/connection/Protocol.cpp.o"
 
 # External object files for target HADB
 HADB_EXTERNAL_OBJECTS =
 
 HADB: CMakeFiles/HADB.dir/main.cpp.o
+HADB: CMakeFiles/HADB.dir/data_structures/BTree.cpp.o
+HADB: CMakeFiles/HADB.dir/data_structures/BTreeNode.cpp.o
+HADB: CMakeFiles/HADB.dir/connection/Server.cpp.o
+HADB: CMakeFiles/HADB.dir/json/jsonParser.cpp.o
+HADB: CMakeFiles/HADB.dir/object/RequestForm.cpp.o
+HADB: CMakeFiles/HADB.dir/connection/Protocol.cpp.o
 HADB: CMakeFiles/HADB.dir/build.make
 HADB: CMakeFiles/HADB.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/jeanpaul/ClionProjects/HADB/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable HADB"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/jeanpaul/ClionProjects/HADB/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable HADB"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/HADB.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -100,6 +256,12 @@ CMakeFiles/HADB.dir/build: HADB
 .PHONY : CMakeFiles/HADB.dir/build
 
 CMakeFiles/HADB.dir/requires: CMakeFiles/HADB.dir/main.cpp.o.requires
+CMakeFiles/HADB.dir/requires: CMakeFiles/HADB.dir/data_structures/BTree.cpp.o.requires
+CMakeFiles/HADB.dir/requires: CMakeFiles/HADB.dir/data_structures/BTreeNode.cpp.o.requires
+CMakeFiles/HADB.dir/requires: CMakeFiles/HADB.dir/connection/Server.cpp.o.requires
+CMakeFiles/HADB.dir/requires: CMakeFiles/HADB.dir/json/jsonParser.cpp.o.requires
+CMakeFiles/HADB.dir/requires: CMakeFiles/HADB.dir/object/RequestForm.cpp.o.requires
+CMakeFiles/HADB.dir/requires: CMakeFiles/HADB.dir/connection/Protocol.cpp.o.requires
 
 .PHONY : CMakeFiles/HADB.dir/requires
 

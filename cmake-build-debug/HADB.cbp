@@ -84,7 +84,43 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/jeanpaul/ClionProjects/HADB/connection/Protocol.cpp">
+			<Option target="HADB"/>
+		</Unit>
+		<Unit filename="/home/jeanpaul/ClionProjects/HADB/connection/Protocol.h">
+			<Option target="HADB"/>
+		</Unit>
+		<Unit filename="/home/jeanpaul/ClionProjects/HADB/connection/Server.cpp">
+			<Option target="HADB"/>
+		</Unit>
+		<Unit filename="/home/jeanpaul/ClionProjects/HADB/connection/Server.h">
+			<Option target="HADB"/>
+		</Unit>
+		<Unit filename="/home/jeanpaul/ClionProjects/HADB/data structures/BTree.cpp">
+			<Option target="HADB"/>
+		</Unit>
+		<Unit filename="/home/jeanpaul/ClionProjects/HADB/data structures/BTree.h">
+			<Option target="HADB"/>
+		</Unit>
+		<Unit filename="/home/jeanpaul/ClionProjects/HADB/data structures/BTreeNode.cpp">
+			<Option target="HADB"/>
+		</Unit>
+		<Unit filename="/home/jeanpaul/ClionProjects/HADB/data structures/BTreeNode.h">
+			<Option target="HADB"/>
+		</Unit>
+		<Unit filename="/home/jeanpaul/ClionProjects/HADB/json/jsonParser.cpp">
+			<Option target="HADB"/>
+		</Unit>
+		<Unit filename="/home/jeanpaul/ClionProjects/HADB/json/jsonParser.h">
+			<Option target="HADB"/>
+		</Unit>
 		<Unit filename="/home/jeanpaul/ClionProjects/HADB/main.cpp">
+			<Option target="HADB"/>
+		</Unit>
+		<Unit filename="/home/jeanpaul/ClionProjects/HADB/object/RequestForm.cpp">
+			<Option target="HADB"/>
+		</Unit>
+		<Unit filename="/home/jeanpaul/ClionProjects/HADB/object/RequestForm.h">
 			<Option target="HADB"/>
 		</Unit>
 		<Unit filename="/home/jeanpaul/ClionProjects/HADB/CMakeLists.txt">

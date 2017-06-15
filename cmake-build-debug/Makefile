@@ -123,6 +123,141 @@ HADB/fast:
 	$(MAKE) -f CMakeFiles/HADB.dir/build.make CMakeFiles/HADB.dir/build
 .PHONY : HADB/fast
 
+connection/Protocol.o: connection/Protocol.cpp.o
+
+.PHONY : connection/Protocol.o
+
+# target to build an object file
+connection/Protocol.cpp.o:
+	$(MAKE) -f CMakeFiles/HADB.dir/build.make CMakeFiles/HADB.dir/connection/Protocol.cpp.o
+.PHONY : connection/Protocol.cpp.o
+
+connection/Protocol.i: connection/Protocol.cpp.i
+
+.PHONY : connection/Protocol.i
+
+# target to preprocess a source file
+connection/Protocol.cpp.i:
+	$(MAKE) -f CMakeFiles/HADB.dir/build.make CMakeFiles/HADB.dir/connection/Protocol.cpp.i
+.PHONY : connection/Protocol.cpp.i
+
+connection/Protocol.s: connection/Protocol.cpp.s
+
+.PHONY : connection/Protocol.s
+
+# target to generate assembly for a file
+connection/Protocol.cpp.s:
+	$(MAKE) -f CMakeFiles/HADB.dir/build.make CMakeFiles/HADB.dir/connection/Protocol.cpp.s
+.PHONY : connection/Protocol.cpp.s
+
+connection/Server.o: connection/Server.cpp.o
+
+.PHONY : connection/Server.o
+
+# target to build an object file
+connection/Server.cpp.o:
+	$(MAKE) -f CMakeFiles/HADB.dir/build.make CMakeFiles/HADB.dir/connection/Server.cpp.o
+.PHONY : connection/Server.cpp.o
+
+connection/Server.i: connection/Server.cpp.i
+
+.PHONY : connection/Server.i
+
+# target to preprocess a source file
+connection/Server.cpp.i:
+	$(MAKE) -f CMakeFiles/HADB.dir/build.make CMakeFiles/HADB.dir/connection/Server.cpp.i
+.PHONY : connection/Server.cpp.i
+
+connection/Server.s: connection/Server.cpp.s
+
+.PHONY : connection/Server.s
+
+# target to generate assembly for a file
+connection/Server.cpp.s:
+	$(MAKE) -f CMakeFiles/HADB.dir/build.make CMakeFiles/HADB.dir/connection/Server.cpp.s
+.PHONY : connection/Server.cpp.s
+
+data_structures/BTree.o: data_structures/BTree.cpp.o
+
+.PHONY : data_structures/BTree.o
+
+# target to build an object file
+data_structures/BTree.cpp.o:
+	$(MAKE) -f CMakeFiles/HADB.dir/build.make CMakeFiles/HADB.dir/data_structures/BTree.cpp.o
+.PHONY : data_structures/BTree.cpp.o
+
+data_structures/BTree.i: data_structures/BTree.cpp.i
+
+.PHONY : data_structures/BTree.i
+
+# target to preprocess a source file
+data_structures/BTree.cpp.i:
+	$(MAKE) -f CMakeFiles/HADB.dir/build.make CMakeFiles/HADB.dir/data_structures/BTree.cpp.i
+.PHONY : data_structures/BTree.cpp.i
+
+data_structures/BTree.s: data_structures/BTree.cpp.s
+
+.PHONY : data_structures/BTree.s
+
+# target to generate assembly for a file
+data_structures/BTree.cpp.s:
+	$(MAKE) -f CMakeFiles/HADB.dir/build.make CMakeFiles/HADB.dir/data_structures/BTree.cpp.s
+.PHONY : data_structures/BTree.cpp.s
+
+data_structures/BTreeNode.o: data_structures/BTreeNode.cpp.o
+
+.PHONY : data_structures/BTreeNode.o
+
+# target to build an object file
+data_structures/BTreeNode.cpp.o:
+	$(MAKE) -f CMakeFiles/HADB.dir/build.make CMakeFiles/HADB.dir/data_structures/BTreeNode.cpp.o
+.PHONY : data_structures/BTreeNode.cpp.o
+
+data_structures/BTreeNode.i: data_structures/BTreeNode.cpp.i
+
+.PHONY : data_structures/BTreeNode.i
+
+# target to preprocess a source file
+data_structures/BTreeNode.cpp.i:
+	$(MAKE) -f CMakeFiles/HADB.dir/build.make CMakeFiles/HADB.dir/data_structures/BTreeNode.cpp.i
+.PHONY : data_structures/BTreeNode.cpp.i
+
+data_structures/BTreeNode.s: data_structures/BTreeNode.cpp.s
+
+.PHONY : data_structures/BTreeNode.s
+
+# target to generate assembly for a file
+data_structures/BTreeNode.cpp.s:
+	$(MAKE) -f CMakeFiles/HADB.dir/build.make CMakeFiles/HADB.dir/data_structures/BTreeNode.cpp.s
+.PHONY : data_structures/BTreeNode.cpp.s
+
+json/jsonParser.o: json/jsonParser.cpp.o
+
+.PHONY : json/jsonParser.o
+
+# target to build an object file
+json/jsonParser.cpp.o:
+	$(MAKE) -f CMakeFiles/HADB.dir/build.make CMakeFiles/HADB.dir/json/jsonParser.cpp.o
+.PHONY : json/jsonParser.cpp.o
+
+json/jsonParser.i: json/jsonParser.cpp.i
+
+.PHONY : json/jsonParser.i
+
+# target to preprocess a source file
+json/jsonParser.cpp.i:
+	$(MAKE) -f CMakeFiles/HADB.dir/build.make CMakeFiles/HADB.dir/json/jsonParser.cpp.i
+.PHONY : json/jsonParser.cpp.i
+
+json/jsonParser.s: json/jsonParser.cpp.s
+
+.PHONY : json/jsonParser.s
+
+# target to generate assembly for a file
+json/jsonParser.cpp.s:
+	$(MAKE) -f CMakeFiles/HADB.dir/build.make CMakeFiles/HADB.dir/json/jsonParser.cpp.s
+.PHONY : json/jsonParser.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -150,6 +285,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/HADB.dir/build.make CMakeFiles/HADB.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+object/RequestForm.o: object/RequestForm.cpp.o
+
+.PHONY : object/RequestForm.o
+
+# target to build an object file
+object/RequestForm.cpp.o:
+	$(MAKE) -f CMakeFiles/HADB.dir/build.make CMakeFiles/HADB.dir/object/RequestForm.cpp.o
+.PHONY : object/RequestForm.cpp.o
+
+object/RequestForm.i: object/RequestForm.cpp.i
+
+.PHONY : object/RequestForm.i
+
+# target to preprocess a source file
+object/RequestForm.cpp.i:
+	$(MAKE) -f CMakeFiles/HADB.dir/build.make CMakeFiles/HADB.dir/object/RequestForm.cpp.i
+.PHONY : object/RequestForm.cpp.i
+
+object/RequestForm.s: object/RequestForm.cpp.s
+
+.PHONY : object/RequestForm.s
+
+# target to generate assembly for a file
+object/RequestForm.cpp.s:
+	$(MAKE) -f CMakeFiles/HADB.dir/build.make CMakeFiles/HADB.dir/object/RequestForm.cpp.s
+.PHONY : object/RequestForm.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -159,9 +321,27 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... HADB"
+	@echo "... connection/Protocol.o"
+	@echo "... connection/Protocol.i"
+	@echo "... connection/Protocol.s"
+	@echo "... connection/Server.o"
+	@echo "... connection/Server.i"
+	@echo "... connection/Server.s"
+	@echo "... data_structures/BTree.o"
+	@echo "... data_structures/BTree.i"
+	@echo "... data_structures/BTree.s"
+	@echo "... data_structures/BTreeNode.o"
+	@echo "... data_structures/BTreeNode.i"
+	@echo "... data_structures/BTreeNode.s"
+	@echo "... json/jsonParser.o"
+	@echo "... json/jsonParser.i"
+	@echo "... json/jsonParser.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... object/RequestForm.o"
+	@echo "... object/RequestForm.i"
+	@echo "... object/RequestForm.s"
 .PHONY : help
 
 
